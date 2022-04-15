@@ -31,7 +31,7 @@ The model is trained with a batch size of 32 and 10 epochs. After training, the 
 ## 4. Results
 The model is evaluated with the test data. The loss and accuracy are shown in figure below.
 
-![Test Result](img/test_result.PNG)
+![Test Result](img/test_result.png)
 
 Some predictions are also been made with the model, and compared with the actual results.
 
