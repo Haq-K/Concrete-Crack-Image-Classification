@@ -26,7 +26,7 @@ The simplified illustration of the model is shown in the figure below.
 
 The model is trained with a batch size of 32 and 10 epochs. After training, the model reaches 99% training accuracy and 95% validation accuracy. The training results are shown in the figures below.
 
-![Loss](img/loss_graph.PNG) ![Accuracy](img/accuracy_graph.PNG)
+![Loss](img/loss.png) ![Accuracy](img/accuracy.png)
 
 ## 4. Results
 The model is evaluated with the test data. The loss and accuracy are shown in figure below.
