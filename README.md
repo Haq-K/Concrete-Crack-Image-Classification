@@ -1,4 +1,4 @@
-# Classifying Images of Concrete Using Convolutional Neural Networks
+# Classifying Images of Concrete Using A Convolutional Neural Network
 
 ## 1. Summary
 The aim of this project was to create a neural network that could accurately identify images of concrete that did or did not have cracks. The source of the dataset can be found [here](https://data.mendeley.com/datasets/5y9wdsg2zt/2).
